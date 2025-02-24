@@ -1,0 +1,1 @@
+aws s3 sync s3://ecs-dropbox-45/CUR/ s3://ecs-dropbox-44/CUR/ --source-region us-east-1 --exact-timestamps
